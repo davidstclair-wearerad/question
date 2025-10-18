@@ -18,6 +18,29 @@
             }
         ]
     },
+{
+        "questionText" : "How many bond movies did Roger Moore star in?",
+        "type" : "multichoice",
+        "category" : "Movies And Television",
+        "subcategory" : "James Bond",
+        "dateAdded" : "2025-11",
+        "certification" : "N/A",
+        "answerSupport" : "N/A",
+        "answers" : [
+            {
+                "text" : "7",
+                "iscorrect" : true
+            },
+            {
+                "text" : "9",
+                "iscorrect" : false
+            },
+               {
+                "text" : "5",
+                "iscorrect" : false
+               }
+        ]
+    },
     {
         "questionText" : "Which actress played the part of Plenty O'Tool in the film Diamonds Are Forever?",
         "type" : "multichoice",
